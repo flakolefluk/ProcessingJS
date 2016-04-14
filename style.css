@@ -1,0 +1,14 @@
+body{
+  /*background:radial-gradient(circle, #654875, #986224);*/
+  background:black;
+  width:90%;
+  overflow: hidden;
+}
+canvas{
+  width:90%;
+
+}
+
+iframe{
+  border=0;
+}
